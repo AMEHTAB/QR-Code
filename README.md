@@ -1,6 +1,7 @@
 # QR-Code
 <!-- ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-8bcfaef95f0b4d36d0c13794c0b23f05)] -->
-![MasterHead](https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif)]
+<!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)] -->
+<h1 align="center">![MasterHead](https://i.pinimg.com/originals/1b/46/e6/1b46e6a97a24fbc5f2f91ed9f7d2b846.gif)]</h1>
 
 <h1 align="center">Hi 👋, I'm Mehtab Ali</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
